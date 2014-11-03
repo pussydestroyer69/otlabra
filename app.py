@@ -6,7 +6,7 @@ import sys
 # Version 1: if number is divisible by 3, print Fizz
 #            if number is divisible by 5, print Buzz
 #            if both, print FizzBuzz
-#            else print number
+#            else print number,
 
 # Version 2: if number is prime, print "<number> is a prime" instead
 #            Take one argument,  and count up to it
